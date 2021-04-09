@@ -1,0 +1,10 @@
+If you wish to contribute to a close or open source project, you follow the steps below:
+
+   1. Clone/fork it
+   2. Create your feature branch (git checkout -b my-new-feature)
+   3. Commit your changes (git commit -am 'Add some feature')
+   4. Test your changes using the steps in Testing
+   5. Push to the branch (git push origin my-new-feature)
+   6. Create a new Pull Request
+Note that no invitation is required for this type of workflow. Read more on: https://guides.github.com/activities/forking/#:~:text=This%20process%20is%20known%20as,up%20to%20the%20original%20project.
+
