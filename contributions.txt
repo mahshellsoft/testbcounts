@@ -8,3 +8,11 @@ If you wish to contribute to a close or open source project, you follow the step
    6. Create a new Pull Request
 Note that no invitation is required for this type of workflow. Read more on: https://guides.github.com/activities/forking/#:~:text=This%20process%20is%20known%20as,up%20to%20the%20original%20project.
 
+https://reflectoring.io/github-fork-and-pull/
+
+Git Merge and Rebase explanation
+If you want learn how to merge and rebase in git, please read the following blogs:
+  1. https://reflectoring.io/git-rebase-merge/
+  2. https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+
+
