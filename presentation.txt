@@ -1,0 +1,41 @@
+Is Pegasus Right for Me?
+Start here if you're considering Pegasus, but aren't sure it's what you need.
+Here are some of the reasons people choose Pegasus:
+
+You're a developer
+Pegasus is for developers. Making changes to your application requires writing and editing code.
+
+If that sounds intimidating to you, you should take a look at SquareSpace, Wordpress or other products that don't require coding.
+
+You ❤ Python
+Pegasus uses Python and Django. It's our favorite stack and with good reason. Python is one of the most popular, powerful, and easiest-to-learn programming languages. And Django is the best way to make Python web applications.
+
+If you'd rather write something in PHP, Rails, Node.js, or even—heaven forbid—Java, you should look elsewhere.
+
+You're just getting started
+Pegasus is great for early-stage projects. You save tons of time not having to re-implement common features like user login and password workflows. And you start from a clean, customizable codebase and UI.
+
+If you've already written a lot of code, Pegasus might not be the best fit.
+
+You don't want to fret about project structure
+Many developers agonize over how to set-up and organize their project's code. Pegasus makes those decisions for you—based on years of experience on Django projects—so you don't have to.
+
+You're still learning (aren't we all?)
+Is this your first Django project? Pegasus is a great way to see how a more mature codebase is laid out and comes with a heap-load of fully-working examples.
+
+Pegasus is used by developers with years of Django experience, but it's also a perfect way for beginners to jump start their introduction to the framework.
+
+You value your time
+At the end of the day, Pegasus is all about saving you time.
+
+By taking care of all the boring components your application needs, Pegasus lets you dive right into the things that matter. From user account management to JavaScript build pipelines, Pegasus has your back.
+
+Interested? Create an account to demo and download Pegasus.
+
+Still not sure?
+The following additional resources have been helpful for others to decide whether to purchase Pegasus:
+
+This site is built with Pegasus. Sign up to go through the user account flow, and don't miss the examples.
+The Pegasus YouTube playlist shows a new project setup and has walkthroughs of key features.
+The creator! Got a question? Just shoot me an email at cory@saaspegasus.com and I'll get back to you soon. If you'd like to setup a demo or a call we can do that too.
+https://www.saaspegasus.com/about/who-its-form/
